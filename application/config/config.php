@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 $config['base_url'] = 'http://localhost/1-Backend/';
+=======
+$config['base_url'] = 'http://localhost/ip-2-io/1-backend/';
+>>>>>>> 300a4c1d290256c896e6b28a651a677eeccd05fa
 
 /*
 |--------------------------------------------------------------------------

@@ -78,7 +78,11 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
+<<<<<<< HEAD
 	'database' => 'backend_project',
+=======
+	'database' => 'backend-io',
+>>>>>>> 300a4c1d290256c896e6b28a651a677eeccd05fa
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
